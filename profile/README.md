@@ -2,6 +2,9 @@
 
 Essay Grader for Mac is a professional grading and evaluation tool designed for teachers, professors, and educators. It streamlines the essay review process, saves time, and provides structured, consistent feedback for students directly on macOS.
 
+![Essay Grader Logo](https://static.macupdate.com/products/41280/m/essay-grader-logo.png)  
+_App icon_
+
 <div align="center">
   <a href="http://essay-grader.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_ESSAY_GRADER-darkred?style=for-the-badge&logo=apple" alt="Install Essay Grader on MacBook">
@@ -43,9 +46,6 @@ Finally, Essay Grader for Mac is **fully optimized for macOS**, ensuring smooth 
 
 ![Essay Grader Main Screen](https://static.macupdate.com/screenshots/33120/m/essay-grader-screenshot.png)  
 _Grading interface with customizable rubrics_
-
-![Essay Grader Logo](https://static.macupdate.com/products/41280/m/essay-grader-logo.png)  
-_App icon_
 
 ![Essay Grader Example](https://i.ytimg.com/vi/jNs8JCHopsI/maxresdefault.jpg)  
 _Assignment feedback and grading workflow_
