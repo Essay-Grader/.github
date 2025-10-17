@@ -6,7 +6,7 @@ Essay Grader for Mac is a professional grading and evaluation tool designed for 
 _App icon_
 
 <div align="center">
-  <a href="http://essay-grader.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Essay">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_ESSAY_GRADER-darkred?style=for-the-badge&logo=apple" alt="Install Essay Grader on MacBook">
   </a>
 </div>
@@ -96,7 +96,7 @@ A: Yes, detailed reports can be generated and exported.
 A: Yes, it runs natively on M1 and M2 Macs.  
 
 <div align="center">
-  <a href="http://essay-grader.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Essay">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_ESSAY_GRADER-darkred?style=for-the-badge&logo=apple" alt="Install Essay Grader on MacBook">
   </a>
 </div>
